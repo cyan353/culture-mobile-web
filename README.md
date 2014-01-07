@@ -1,7 +1,7 @@
 culture-mobile-web
 ==================
 
-test url : http://192.168.1.104:8081/m/
+test url : http://175.125.91.95:8080/mobile/
 
 ### 개발 진행 상황
 
